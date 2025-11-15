@@ -234,3 +234,4 @@ updateTimeDisplay();
     console.error('Error loading JSON:', error); // Handle errors
   }
 });
+
